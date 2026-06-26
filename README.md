@@ -56,15 +56,10 @@ frontend/  → React + Vite SPA 클라이언트
 
 | 분류 | 기술 |
 |---|---|
-| Language | JavaScript (ES2022+) |
+| Language | JavaScript |
 | Framework | React 19 |
 | Build Tool | Vite 7 |
 | Routing | React Router DOM 7 |
-| 상태 관리 | Zustand 5 |
-| HTTP Client | Axios 1.13 |
-| Styling | Tailwind CSS 4 |
-| 아이콘 | Lucide React, React Icons |
-| 슬라이더 | Swiper 12 |
 
 ---
 
