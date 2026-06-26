@@ -140,8 +140,8 @@ npm run dev
 - JWT 기반 Stateless 인증 (만료 1시간)
 - 프로필 이미지 업로드, 닉네임·이름 수정, 비밀번호 변경
 
-<img width="665" height="392" alt="image" src="https://github.com/user-attachments/assets/20a2f551-4e30-487a-8f0a-dc28b690575f" />
-<img width="659" height="389" alt="image" src="https://github.com/user-attachments/assets/1f6c3e07-8adf-4617-9137-bcab13581e0a" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/20a2f551-4e30-487a-8f0a-dc28b690575f" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/1f6c3e07-8adf-4617-9137-bcab13581e0a" />
 
 
 ---
