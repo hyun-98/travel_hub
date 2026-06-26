@@ -112,10 +112,6 @@ npm run dev
 ### 관광지 / 축제 탐색
 - 키워드 검색 (관광지명, 지역명 모두 지원)
 - 지역 기반 관광지 목록 (17개 광역시·도, 콘텐츠 타입 필터)
-- 인기 관광지 Top 10 (미완성)
-- 진행 중인 축제 목록 (미완성)
-- 관광지 상세 정보 + 카카오맵 지도 표시 (미완성)
-- 관광지 혼잡도 통계 조회 (미완성)
 
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/61d5b6d6-fc5b-48d6-8aac-76b932ef1835" />
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/c888c342-0602-442f-82de-db7bdb684bdf" />
