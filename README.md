@@ -117,6 +117,9 @@ npm run dev
 - 관광지 상세 정보 + 카카오맵 지도 표시
 - 관광지 혼잡도 통계 조회
 
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/61d5b6d6-fc5b-48d6-8aac-76b932ef1835" />
+
+
 ### 리뷰
 - 관광지별 별점 리뷰 작성 및 목록 조회
 - 평균 별점 표시
